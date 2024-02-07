@@ -1,2 +1,2 @@
-"Hello welcome to jenkins"
-"Executing first script using jenkins"
+echo "Hello welcome to jenkins"
+echo "Executing first script using jenkins"
